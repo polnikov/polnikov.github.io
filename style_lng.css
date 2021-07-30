@@ -14,6 +14,7 @@ body.ru {
 
 span {
     font-size: 25px;
+    font-family: 'Roboto', sans-serif;
 }
 
 span.highlight {
@@ -29,4 +30,8 @@ span.highlight {
 
 td {
     text-decoration: none;
+}
+
+td .href {
+    text-decoration: none
 }
