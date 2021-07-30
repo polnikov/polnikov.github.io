@@ -33,12 +33,11 @@ span.highlight {
     text-align: justify;
 }
 
-/* table {
-    width: 50px;
-    margin: auto
-} */
+.link {
+	text-decoration: none;
+}
 
-#t01 tbody, td {
+#t01 tbody {
     line-height: 13px;
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
