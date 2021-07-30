@@ -27,18 +27,19 @@ span.highlight {
     background-color: #333;
     color: white;
     font-size: 18px;
+    
 }
 
 /* table {
     width: 50px;
     margin: auto
 } */
+tbody {
+    width: 500px;
+}
 
 #t01 {
-    width: 700px;
-    line-height: 25px;
 }
 
 #t02 li {
-    width: 700px;
 }
