@@ -1,7 +1,7 @@
 body.ru {
     margin-top: 50px;
     text-align: left;
-    font-family: 'Oswald';
+    font-family: 'Oswald', sans-serif;
     font-size: 15px;
 }
 
@@ -35,9 +35,9 @@ span.highlight {
 } */
 
 #t01 tbody {
-    line-height: 15px;
+    line-height: 13px;
 }
 
 #t02 tbody {
-    line-height: 15px;
+    line-height: 20px;
 }
