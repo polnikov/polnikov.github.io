@@ -23,6 +23,12 @@ span.highlight {
     font-size: 25px;
 }
 
+.chapter {
+    background-color: #333;
+    color: white;
+    font-size: 18px;
+}
+
 /* table {
     width: 50px;
     margin: auto
