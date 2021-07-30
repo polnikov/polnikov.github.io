@@ -26,8 +26,7 @@ span.highlight {
 .chapter {
     background-color: #333;
     color: white;
-    font-size: 18px;
-    
+    font-size: 18px;    
 }
 
 /* table {
@@ -36,10 +35,12 @@ span.highlight {
 } */
 tbody {
     width: 500px;
+    line-height: 5px;
 }
 
 #t01 {
 }
 
 #t02 li {
+    width: 500px;
 }
