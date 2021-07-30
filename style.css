@@ -1,5 +1,5 @@
 body {
-    padding-top: 15px;
+    margin-top: 40px;
     background: rgb(231, 231, 231);
     text-align: center;
     font-family: 'Roboto', sans-serif;
@@ -21,6 +21,11 @@ span.highlight {
 }
 
 table {
-    float: center;
+    width: 50px;
+    margin: auto
+}
 
+td {
+    text-align: center;
+    text-decoration: none;
 }
