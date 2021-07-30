@@ -41,3 +41,7 @@ span.highlight {
 #t02 tbody {
     line-height: 20px;
 }
+
+#t02 li, ul {
+    margin-left: 5px;
+}
