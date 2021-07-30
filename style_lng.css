@@ -37,12 +37,16 @@ span.highlight {
 #t01 tbody {
     line-height: 13px;
     text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
 }
 
 #t02 tbody {
-    line-height: 20px;
+    line-height: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
 }
 
 #t02 li, dt, dl {
-    margin-left: 20px;
+    margin-left: 25px;
 }
