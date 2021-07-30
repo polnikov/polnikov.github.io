@@ -1,7 +1,7 @@
 body.ru {
     margin-top: 50px;
     text-align: left;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 15px;
 }
 
@@ -14,7 +14,7 @@ body.ru {
 
 span {
     font-size: 25px;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 span.highlight {
@@ -36,12 +36,13 @@ span.highlight {
 
 #t01 tbody {
     line-height: 13px;
+    text-decoration: none;
 }
 
 #t02 tbody {
     line-height: 20px;
 }
 
-#t02 li, ul {
-    margin-left: 5px;
+#t02 li, dt, dl {
+    margin-left: 20px;
 }
