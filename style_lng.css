@@ -34,13 +34,11 @@ span.highlight {
     margin: auto
 } */
 tbody {
-    width: 500px;
-    line-height: 5px;
 }
 
 #t01 {
 }
 
-#t02 li {
-    width: 500px;
+#t02 tbody {
+    line-height: 5px;
 }
