@@ -38,7 +38,7 @@ span.highlight {
     margin: auto
 } */
 
-#t01 tbody {
+#t01 tbody, td {
     line-height: 13px;
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
