@@ -20,6 +20,7 @@ span {
 span.highlight {
     background-color: #333;
     color: white;
+    font-size: 25px;
 }
 
 /* table {
