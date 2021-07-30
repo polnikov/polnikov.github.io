@@ -29,9 +29,8 @@ span.highlight {
 } */
 
 #t01 {
-
 }
 
-#t02 {
-    
+#t02 li {
+    padding-left: 5px;
 }
