@@ -47,6 +47,7 @@ span.highlight {
     font-size: 15px;
 }
 
-#t02 li, dt, dl {
-    margin-left: 25px;
+#t02 li {
+    margin-left: 15px;
+    text-decoration: none;
 }
