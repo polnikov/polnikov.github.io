@@ -2,7 +2,7 @@ body.ru {
     margin-top: 50px;
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    font-size: 25px;
+    font-size: 15px;
 }
 
 .container {
@@ -15,7 +15,6 @@ body.ru {
 
 span {
     font-size: 25px;
-    line-height: 30px;
 }
 
 span.highlight {
@@ -23,12 +22,11 @@ span.highlight {
     color: white;
 }
 
-table {
+/* table {
     width: 50px;
     margin: auto
-}
+} */
 
 td {
-    text-align: center;
     text-decoration: none;
 }
